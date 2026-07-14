@@ -148,7 +148,7 @@
     <string name="ig_dialog_dev_restore_default_config_confirm">Это заменит текущую конфигурацию разработчика встроенной по умолчанию. Продолжить?</string>
     <string name="ig_toast_default_config_restored">✅ Конфигурация по умолчанию восстановлена.</string>
     <string name="ig_dialog_dev_remove_build_expired">Убрать всплывающее окно истечения сборки</string>
-    <string name="ig_dialog_unable_open_ui">Не удалось открыть интерфейс insta Ec.</string>
+    <string name="ig_dialog_unable_open_ui">Не удалось открыть интерфейс HdbwvXzkpsi.</string>
     <string name="ig_dialog_instagram_not_ready">Instagram не открыт или не готов.</string>
     <string name="ig_dialog_mc_overrides_not_found">Файл mc_overrides.json не найден.</string>
     <string name="ig_dialog_failed_read_config">Не удалось прочитать конфигурацию: %1$s</string>
@@ -234,7 +234,7 @@
     <string name="ig_dialog_restart_message">⚠️ Очистить кэш приложения и перезапустить?</string>
     <string name="ig_dialog_clear_cache">Очистить кэш хуков</string>
     <string name="ig_dialog_section_clear_cache">Очистить кэш хуков</string>
-    <string name="ig_dialog_clear_cache_message">⚠️ insta Ec повторно просканирует Instagram при следующем запуске. Приложение перезапустится.</string>
+    <string name="ig_dialog_clear_cache_message">⚠️ HdbwvXzkpsi повторно просканирует Instagram при следующем запуске. Приложение перезапустится.</string>
     <string name="ig_dialog_clear_cache_now">Очистить кэш и перезапустить</string>
     <string name="ig_dialog_restart_now">Перезапустить сейчас</string>
     <string name="ig_dialog_restart_not_found">Не удалось найти приложение для перезапуска.</string>
@@ -266,12 +266,12 @@
     <string name="ig_toast_downloading">Загрузка…</string>
     <string name="ig_toast_downloading_video">Загрузка видео…</string>
     <string name="ig_toast_downloading_photo">Загрузка фото…</string>
-    <string name="ig_toast_video_saved">Видео сохранено в папку insta Ec</string>
-    <string name="ig_toast_photo_saved">Фото сохранено в папку insta Ec</string>
-    <string name="ig_toast_saved">Сохранено в папку insta Ec</string>
+    <string name="ig_toast_video_saved">Видео сохранено в папку HdbwvXzkpsi</string>
+    <string name="ig_toast_photo_saved">Фото сохранено в папку HdbwvXzkpsi</string>
+    <string name="ig_toast_saved">Сохранено в папку HdbwvXzkpsi</string>
     <string name="ig_toast_download_failed">Ошибка загрузки: %1$s</string>
     <string name="ig_toast_downloading_reel">Загрузка рила…</string>
-    <string name="ig_toast_reel_saved">Рил сохранён в папку insta Ec</string>
+    <string name="ig_toast_reel_saved">Рил сохранён в папку HdbwvXzkpsi</string>
     <string name="ig_toast_reel_failed">Ошибка загрузки рила: %1$s</string>
     <string name="ig_toast_reel_url_not_found">URL рила не найден</string>
     <string name="ig_toast_post_url_not_found">URL публикации не найден</string>
@@ -279,7 +279,7 @@
     <string name="ig_toast_no_media">Медиафайлы не найдены</string>
     <string name="ig_toast_downloading_story_video">Загрузка видео истории…</string>
     <string name="ig_toast_downloading_story_photo">Загрузка фото истории…</string>
-    <string name="ig_toast_story_saved">История сохранена в папку insta Ec</string>
+    <string name="ig_toast_story_saved">История сохранена в папку HdbwvXzkpsi</string>
     <string name="ig_toast_story_url_not_found">URL истории не найден</string>
     <string name="ig_toast_downloading_profile_pic">Загрузка фото профиля…</string>
     <string name="ig_toast_profile_pic_saved">Фото профиля сохранено!</string>
@@ -287,7 +287,7 @@
     <string name="ig_toast_merging_video_audio">Объединение видео и аудио…</string>
     <string name="ig_toast_downloading_n_items">Загрузка %1$d элементов…</string>
     <string name="ig_toast_downloading_all_n_items">Загрузка всех %1$d элементов…</string>
-    <string name="ig_toast_all_items_saved">Все %1$d элементов сохранены в папку insta Ec</string>
+    <string name="ig_toast_all_items_saved">Все %1$d элементов сохранены в папку HdbwvXzkpsi</string>
     <string name="ig_toast_items_partial_saved">%1$d из %2$d элементов сохранено (%3$d не удалось)</string>
     <string name="ig_toast_no_reel_url_scroll">URL рила не найден — сначала прокрутите рил</string>
     <string name="ig_dl_title">Скачать</string>
@@ -326,7 +326,7 @@
     <!-- Toast: Downloader (service) -->
     <string name="ig_toast_no_download_folder">Папка загрузки не задана</string>
     <string name="ig_toast_file_saved">Сохранено: %1$s</string>
-    <string name="ig_toast_features_loaded">insta Ec загружен 🎯</string>
+    <string name="ig_toast_features_loaded">HdbwvXzkpsi загружен 🎯</string>
 
     <!-- Update check dialog -->
     <string name="ig_update_title">Доступно обновление</string>

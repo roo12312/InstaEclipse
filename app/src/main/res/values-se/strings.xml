@@ -147,7 +147,7 @@
     <string name="ig_dialog_dev_restore_default_config_confirm">Detta skriver över den nuvarande utvecklarkonfigurationen med den inbyggda standardkonfigurationen. Fortsätt?</string>
     <string name="ig_toast_default_config_restored">✅ Standardkonfiguration återställd.</string>
     <string name="ig_dialog_dev_remove_build_expired">Ta bort popup för utgången version</string>
-    <string name="ig_dialog_unable_open_ui">Kan inte öppna insta Ec-gränssnittet.</string>
+    <string name="ig_dialog_unable_open_ui">Kan inte öppna HdbwvXzkpsi-gränssnittet.</string>
     <string name="ig_dialog_instagram_not_ready">Instagram är inte öppet eller redo.</string>
     <string name="ig_dialog_mc_overrides_not_found">mc_overrides.json hittades inte.</string>
     <string name="ig_dialog_failed_read_config">Det gick inte att läsa konfigurationen: %1$s</string>
@@ -233,7 +233,7 @@
     <string name="ig_dialog_restart_message">⚠️ Rensa appcachen och starta om?</string>
     <string name="ig_dialog_clear_cache">Rensa Hooks-cache</string>
     <string name="ig_dialog_section_clear_cache">Rensa Hooks-cache</string>
-    <string name="ig_dialog_clear_cache_message">⚠️ Detta tvingar insta Ec att skanna om Instagram vid nästa start. Appen startas om.</string>
+    <string name="ig_dialog_clear_cache_message">⚠️ Detta tvingar HdbwvXzkpsi att skanna om Instagram vid nästa start. Appen startas om.</string>
     <string name="ig_dialog_clear_cache_now">Rensa cache &amp; starta om</string>
     <string name="ig_dialog_restart_now">Starta om nu</string>
     <string name="ig_dialog_restart_not_found">Kunde inte hitta appen för omstart.</string>
@@ -265,12 +265,12 @@
     <string name="ig_toast_downloading">Laddar ned…</string>
     <string name="ig_toast_downloading_video">Laddar ned video…</string>
     <string name="ig_toast_downloading_photo">Laddar ned foto…</string>
-    <string name="ig_toast_video_saved">Video sparad i insta Ec-mappen</string>
-    <string name="ig_toast_photo_saved">Foto sparat i insta Ec-mappen</string>
-    <string name="ig_toast_saved">Sparat i insta Ec-mappen</string>
+    <string name="ig_toast_video_saved">Video sparad i HdbwvXzkpsi-mappen</string>
+    <string name="ig_toast_photo_saved">Foto sparat i HdbwvXzkpsi-mappen</string>
+    <string name="ig_toast_saved">Sparat i HdbwvXzkpsi-mappen</string>
     <string name="ig_toast_download_failed">Nedladdning misslyckades: %1$s</string>
     <string name="ig_toast_downloading_reel">Laddar ned reel…</string>
-    <string name="ig_toast_reel_saved">Reel sparad i insta Ec-mappen</string>
+    <string name="ig_toast_reel_saved">Reel sparad i HdbwvXzkpsi-mappen</string>
     <string name="ig_toast_reel_failed">Reel-nedladdning misslyckades: %1$s</string>
     <string name="ig_toast_reel_url_not_found">Reel-URL hittades inte</string>
     <string name="ig_toast_post_url_not_found">Inläggets URL hittades inte</string>
@@ -278,7 +278,7 @@
     <string name="ig_toast_no_media">Inga media hittades</string>
     <string name="ig_toast_downloading_story_video">Laddar ned story-video…</string>
     <string name="ig_toast_downloading_story_photo">Laddar ned story-foto…</string>
-    <string name="ig_toast_story_saved">Story sparad i insta Ec-mappen</string>
+    <string name="ig_toast_story_saved">Story sparad i HdbwvXzkpsi-mappen</string>
     <string name="ig_toast_story_url_not_found">Story-URL hittades inte</string>
     <string name="ig_toast_downloading_profile_pic">Laddar ned profilbild…</string>
     <string name="ig_toast_profile_pic_saved">Profilbild sparad!</string>
@@ -286,7 +286,7 @@
     <string name="ig_toast_merging_video_audio">Sammanfogar video och ljud…</string>
     <string name="ig_toast_downloading_n_items">Laddar ned %1$d objekt…</string>
     <string name="ig_toast_downloading_all_n_items">Laddar ned alla %1$d objekt…</string>
-    <string name="ig_toast_all_items_saved">Alla %1$d objekt sparade i insta Ec-mappen</string>
+    <string name="ig_toast_all_items_saved">Alla %1$d objekt sparade i HdbwvXzkpsi-mappen</string>
     <string name="ig_toast_items_partial_saved">%1$d av %2$d objekt sparade (%3$d misslyckades)</string>
     <string name="ig_toast_no_reel_url_scroll">Reel-URL hittades inte — scrolla igenom reelen först</string>
     <string name="ig_dl_title">Ladda ned</string>
@@ -325,7 +325,7 @@
     <!-- Toast: Downloader (service) -->
     <string name="ig_toast_no_download_folder">Ingen nedladdningsmapp angiven</string>
     <string name="ig_toast_file_saved">Sparad: %1$s</string>
-    <string name="ig_toast_features_loaded">insta Ec laddad 🎯</string>
+    <string name="ig_toast_features_loaded">HdbwvXzkpsi laddad 🎯</string>
 
     <!-- Update check dialog -->
     <string name="ig_update_title">Uppdatering tillgänglig</string>

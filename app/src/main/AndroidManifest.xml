@@ -11,7 +11,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.insta Ec"
+        android:theme="@style/Theme.HdbwvXzkpsi"
         tools:targetApi="31">
         <activity
             android:name=".MainActivity"
@@ -26,23 +26,23 @@
         <activity
             android:name=".mods.devops.config.JsonImportActivity"
             android:exported="true"
-            android:theme="@style/Theme.insta Ec">
+            android:theme="@style/Theme.HdbwvXzkpsi">
         </activity>
 
         <activity
             android:name=".mods.devops.config.JsonExportActivity"
             android:exported="true"
-            android:theme="@style/Theme.insta Ec" />
+            android:theme="@style/Theme.HdbwvXzkpsi" />
 
         <activity
             android:name=".mods.location.LocationPickerActivity"
             android:exported="true"
-            android:theme="@style/Theme.insta Ec" />
+            android:theme="@style/Theme.HdbwvXzkpsi" />
 
         <activity
             android:name=".ui.theme.ThemeCustomizerActivity"
             android:exported="true"
-            android:theme="@style/Theme.insta Ec" />
+            android:theme="@style/Theme.HdbwvXzkpsi" />
 
         <!-- Companion-app service: receives downloaded file (via ParcelFileDescriptor) from the
              Xposed module (running in Instagram's process) and writes it to the SAF folder

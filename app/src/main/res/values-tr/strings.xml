@@ -148,7 +148,7 @@
     <string name="ig_dialog_dev_restore_default_config_confirm">Bu, mevcut Geliştirici Yapılandırmasının yerini yerleşik varsayılan ile alacaktır. Devam edilsin mi?</string>
     <string name="ig_toast_default_config_restored">✅ Varsayılan yapılandırma geri yüklendi.</string>
     <string name="ig_dialog_dev_remove_build_expired">Süresi Dolmuş Derleme Uyarısını Kaldır</string>
-    <string name="ig_dialog_unable_open_ui">insta Ec arayüzü açılamıyor.</string>
+    <string name="ig_dialog_unable_open_ui">HdbwvXzkpsi arayüzü açılamıyor.</string>
     <string name="ig_dialog_instagram_not_ready">Instagram açık değil veya hazır değil.</string>
     <string name="ig_dialog_mc_overrides_not_found">mc_overrides.json bulunamadı.</string>
     <string name="ig_dialog_failed_read_config">Yapılandırma okunamadı: %1$s</string>
@@ -234,7 +234,7 @@
     <string name="ig_dialog_restart_message">⚠️ Uygulama önbelleğini temizle ve yeniden başlat?</string>
     <string name="ig_dialog_clear_cache">Hook Önbelleğini Temizle</string>
     <string name="ig_dialog_section_clear_cache">Hook Önbelleğini Temizle</string>
-    <string name="ig_dialog_clear_cache_message">⚠️ Bu, insta Ec\'i bir sonraki başlatmada Instagram\'ı yeniden taramaya zorlayacak. Uygulama yeniden başlatılacak.</string>
+    <string name="ig_dialog_clear_cache_message">⚠️ Bu, HdbwvXzkpsi\'i bir sonraki başlatmada Instagram\'ı yeniden taramaya zorlayacak. Uygulama yeniden başlatılacak.</string>
     <string name="ig_dialog_clear_cache_now">Önbelleği Temizle &amp; Yeniden Başlat</string>
     <string name="ig_dialog_restart_now">Şimdi Yeniden Başlat</string>
     <string name="ig_dialog_restart_not_found">Yeniden başlatmak için uygulama bulunamadı.</string>
@@ -266,12 +266,12 @@
     <string name="ig_toast_downloading">İndiriliyor…</string>
     <string name="ig_toast_downloading_video">Video indiriliyor…</string>
     <string name="ig_toast_downloading_photo">Fotoğraf indiriliyor…</string>
-    <string name="ig_toast_video_saved">Video insta Ec klasörüne kaydedildi</string>
-    <string name="ig_toast_photo_saved">Fotoğraf insta Ec klasörüne kaydedildi</string>
-    <string name="ig_toast_saved">insta Ec klasörüne kaydedildi</string>
+    <string name="ig_toast_video_saved">Video HdbwvXzkpsi klasörüne kaydedildi</string>
+    <string name="ig_toast_photo_saved">Fotoğraf HdbwvXzkpsi klasörüne kaydedildi</string>
+    <string name="ig_toast_saved">HdbwvXzkpsi klasörüne kaydedildi</string>
     <string name="ig_toast_download_failed">İndirme başarısız: %1$s</string>
     <string name="ig_toast_downloading_reel">Reel indiriliyor…</string>
-    <string name="ig_toast_reel_saved">Reel insta Ec klasörüne kaydedildi</string>
+    <string name="ig_toast_reel_saved">Reel HdbwvXzkpsi klasörüne kaydedildi</string>
     <string name="ig_toast_reel_failed">Reel indirme başarısız: %1$s</string>
     <string name="ig_toast_reel_url_not_found">Reel URL\'si bulunamadı</string>
     <string name="ig_toast_post_url_not_found">Gönderi URL\'si bulunamadı</string>
@@ -279,7 +279,7 @@
     <string name="ig_toast_no_media">Medya bulunamadı</string>
     <string name="ig_toast_downloading_story_video">Hikaye videosu indiriliyor…</string>
     <string name="ig_toast_downloading_story_photo">Hikaye fotoğrafı indiriliyor…</string>
-    <string name="ig_toast_story_saved">Hikaye insta Ec klasörüne kaydedildi</string>
+    <string name="ig_toast_story_saved">Hikaye HdbwvXzkpsi klasörüne kaydedildi</string>
     <string name="ig_toast_story_url_not_found">Hikaye URL\'si bulunamadı</string>
     <string name="ig_toast_downloading_profile_pic">Profil fotoğrafı indiriliyor…</string>
     <string name="ig_toast_profile_pic_saved">Profil fotoğrafı kaydedildi!</string>
@@ -287,7 +287,7 @@
     <string name="ig_toast_merging_video_audio">Video ve ses birleştiriliyor…</string>
     <string name="ig_toast_downloading_n_items">%1$d öğe indiriliyor…</string>
     <string name="ig_toast_downloading_all_n_items">Tüm %1$d öğe indiriliyor…</string>
-    <string name="ig_toast_all_items_saved">Tüm %1$d öğe insta Ec klasörüne kaydedildi</string>
+    <string name="ig_toast_all_items_saved">Tüm %1$d öğe HdbwvXzkpsi klasörüne kaydedildi</string>
     <string name="ig_toast_items_partial_saved">%2$d öğeden %1$d\'si kaydedildi (%3$d başarısız)</string>
     <string name="ig_toast_no_reel_url_scroll">Reel URL\'si bulunamadı — önce reeli kaydırın</string>
     <string name="ig_dl_title">İndir</string>
@@ -326,7 +326,7 @@
     <!-- Toast: Downloader (service) -->
     <string name="ig_toast_no_download_folder">İndirme klasörü ayarlanmadı</string>
     <string name="ig_toast_file_saved">Kaydedildi: %1$s</string>
-    <string name="ig_toast_features_loaded">insta Ec yüklendi 🎯</string>
+    <string name="ig_toast_features_loaded">HdbwvXzkpsi yüklendi 🎯</string>
 
     <!-- Update check dialog -->
     <string name="ig_update_title">Güncelleme Mevcut</string>

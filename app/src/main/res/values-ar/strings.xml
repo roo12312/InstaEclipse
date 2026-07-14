@@ -146,7 +146,7 @@
     <string name="ig_dialog_dev_restore_default_config_confirm">سيؤدي هذا إلى استبدال إعدادات المطور الحالية بالإعدادات الافتراضية المضمنة. هل تريد المتابعة؟</string>
     <string name="ig_toast_default_config_restored">✅ تمت استعادة الإعدادات الافتراضية.</string>
     <string name="ig_dialog_dev_remove_build_expired">إزالة نافذة انتهاء صلاحية الإصدار</string>
-    <string name="ig_dialog_unable_open_ui">تعذر فتح واجهة insta Ec.</string>
+    <string name="ig_dialog_unable_open_ui">تعذر فتح واجهة HdbwvXzkpsi.</string>
     <string name="ig_dialog_instagram_not_ready">إنستغرام غير مفتوح أو غير جاهز.</string>
     <string name="ig_dialog_mc_overrides_not_found">ملف mc_overrides.json غير موجود.</string>
     <string name="ig_dialog_failed_read_config">فشل قراءة الإعدادات: %1$s</string>
@@ -264,12 +264,12 @@
     <string name="ig_toast_downloading">جارٍ التنزيل…</string>
     <string name="ig_toast_downloading_video">جارٍ تنزيل الفيديو…</string>
     <string name="ig_toast_downloading_photo">جارٍ تنزيل الصورة…</string>
-    <string name="ig_toast_video_saved">تم حفظ الفيديو في مجلد insta Ec</string>
-    <string name="ig_toast_photo_saved">تم حفظ الصورة في مجلد insta Ec</string>
-    <string name="ig_toast_saved">تم الحفظ في مجلد insta Ec</string>
+    <string name="ig_toast_video_saved">تم حفظ الفيديو في مجلد HdbwvXzkpsi</string>
+    <string name="ig_toast_photo_saved">تم حفظ الصورة في مجلد HdbwvXzkpsi</string>
+    <string name="ig_toast_saved">تم الحفظ في مجلد HdbwvXzkpsi</string>
     <string name="ig_toast_download_failed">فشل التنزيل: %1$s</string>
     <string name="ig_toast_downloading_reel">جارٍ تنزيل الريل…</string>
-    <string name="ig_toast_reel_saved">تم حفظ الريل في مجلد insta Ec</string>
+    <string name="ig_toast_reel_saved">تم حفظ الريل في مجلد HdbwvXzkpsi</string>
     <string name="ig_toast_reel_failed">فشل تنزيل الريل: %1$s</string>
     <string name="ig_toast_reel_url_not_found">لم يتم العثور على رابط الريل</string>
     <string name="ig_toast_post_url_not_found">لم يتم العثور على رابط المنشور</string>
@@ -277,7 +277,7 @@
     <string name="ig_toast_no_media">لم يتم العثور على وسائط</string>
     <string name="ig_toast_downloading_story_video">جارٍ تنزيل فيديو القصة…</string>
     <string name="ig_toast_downloading_story_photo">جارٍ تنزيل صورة القصة…</string>
-    <string name="ig_toast_story_saved">تم حفظ القصة في مجلد insta Ec</string>
+    <string name="ig_toast_story_saved">تم حفظ القصة في مجلد HdbwvXzkpsi</string>
     <string name="ig_toast_story_url_not_found">لم يتم العثور على رابط القصة</string>
     <string name="ig_toast_downloading_profile_pic">جارٍ تنزيل صورة الملف الشخصي…</string>
     <string name="ig_toast_profile_pic_saved">تم حفظ صورة الملف الشخصي!</string>
@@ -285,7 +285,7 @@
     <string name="ig_toast_merging_video_audio">جارٍ دمج الفيديو والصوت…</string>
     <string name="ig_toast_downloading_n_items">جارٍ تنزيل %1$d عنصر…</string>
     <string name="ig_toast_downloading_all_n_items">جارٍ تنزيل جميع %1$d عناصر…</string>
-    <string name="ig_toast_all_items_saved">تم حفظ جميع %1$d عناصر في مجلد insta Ec</string>
+    <string name="ig_toast_all_items_saved">تم حفظ جميع %1$d عناصر في مجلد HdbwvXzkpsi</string>
     <string name="ig_toast_items_partial_saved">تم حفظ %1$d من %2$d (%3$d فشل)</string>
     <string name="ig_toast_no_reel_url_scroll">لم يتم العثور على رابط الريل — قم بالتمرير أولًا</string>
     <string name="ig_dl_title">تنزيل</string>
@@ -324,7 +324,7 @@
     <!-- Toast: Downloader (service) -->
     <string name="ig_toast_no_download_folder">لم يتم تعيين مجلد للتنزيل</string>
     <string name="ig_toast_file_saved">تم الحفظ: %1$s</string>
-    <string name="ig_toast_features_loaded">insta Ec جاهز 🎯</string>
+    <string name="ig_toast_features_loaded">HdbwvXzkpsi جاهز 🎯</string>
 
     <!-- Update check dialog -->
     <string name="ig_update_title">تحديث متاح</string>
