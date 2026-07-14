@@ -8,7 +8,7 @@
     android:paddingTop="8.0dp"
     android:paddingBottom="8.0dp">
 
-    <ps.reso.instaeclipse.ui.theme.AdvancedColorPickerView
+    <com.zkcgw.wwarcv.ui.theme.AdvancedColorPickerView
         android:id="@+id/color_picker_view"
         android:layout_width="match_parent"
         android:layout_height="220.0dp" />

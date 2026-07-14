@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'ps.reso.instaeclipse'
+    namespace 'com.zkcgw.wwarcv'
     compileSdk 34
 
     defaultConfig {
-        applicationId "ps.reso.instaeclipse"
+        applicationId "com.zkcgw.wwarcv"
         minSdkVersion 28
         targetSdk 36
         versionCode 16
