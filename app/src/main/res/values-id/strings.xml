@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- app wide -->
-    <string name="app_name">InstaEclipse</string>
+    <string name="app_name">insta Ec</string>
     <string name="version" translatable="false">v0.6.0</string>
     <string name="home">Beranda</string>
     <string name="features">Fitur</string>
@@ -40,10 +40,10 @@
     <string name="go_to_github">Buka GitHub</string>
     <string name="find_support">Temukan dukungan.</string>
     <string name="go_to_telegram">Buka Telegram</string>
-    <string name="instaeclipse_telegram_group" translatable="false">InstaEclipse Telegram Group</string>
+    <string name="instaeclipse_telegram_group" translatable="false">insta Ec Telegram Group</string>
 
     <!-- Don't translate! -->
-    <string name="instaeclipse_github" translatable="false">InstaEclipse GitHub</string>
+    <string name="instaeclipse_github" translatable="false">insta Ec GitHub</string>
     <string name="github">GitHub</string>
     <string name="telegram">Telegram</string>
 
@@ -132,7 +132,7 @@
     <!-- ================================================================ -->
 
     <!-- Common -->
-    <string name="ig_dialog_title" translatable="false">InstaEclipse 🌘</string>
+    <string name="ig_dialog_title" translatable="false">insta Ec 🌘</string>
     <string name="ig_dialog_close">Tutup</string>
     <string name="ig_dialog_enable_disable_all">Aktifkan/Nonaktifkan Semua</string>
     <string name="ig_dialog_error">Kesalahan</string>
@@ -174,7 +174,7 @@
     <string name="ig_dialog_dev_restore_default_config_confirm">Ini akan menimpa Konfigurasi Dev saat ini dengan konfigurasi default bawaan. Lanjutkan?</string>
     <string name="ig_toast_default_config_restored">✅ Konfigurasi default berhasil dipulihkan.</string>
     <string name="ig_dialog_dev_remove_build_expired">Hapus Popup Build Kedaluwarsa</string>
-    <string name="ig_dialog_unable_open_ui">Tidak dapat membuka antarmuka InstaEclipse.</string>
+    <string name="ig_dialog_unable_open_ui">Tidak dapat membuka antarmuka insta Ec.</string>
     <string name="ig_dialog_instagram_not_ready">Instagram tidak terbuka atau belum siap.</string>
     <string name="ig_dialog_mc_overrides_not_found">mc_overrides.json tidak ditemukan.</string>
     <string name="ig_dialog_failed_read_config">Gagal membaca konfigurasi: %1$s</string>
@@ -279,7 +279,7 @@
     <string name="ig_dialog_restart_message">⚠️ Hapus cache aplikasi dan mulai ulang?</string>
     <string name="ig_dialog_clear_cache">Bersihkan Cache Hooks</string>
     <string name="ig_dialog_section_clear_cache">Bersihkan Cache Hooks</string>
-    <string name="ig_dialog_clear_cache_message">⚠️ Ini akan memaksa InstaEclipse untuk memindai ulang Instagram saat peluncuran berikutnya. Aplikasi akan dimulai ulang.</string>
+    <string name="ig_dialog_clear_cache_message">⚠️ Ini akan memaksa insta Ec untuk memindai ulang Instagram saat peluncuran berikutnya. Aplikasi akan dimulai ulang.</string>
     <string name="ig_dialog_clear_cache_now">Bersihkan Cache &amp; Mulai Ulang</string>
     <string name="ig_dialog_restart_now">Mulai Ulang Sekarang</string>
     <string name="ig_dialog_restart_not_found">Tidak dapat menemukan aplikasi untuk dimulai ulang.</string>
@@ -311,12 +311,12 @@
     <string name="ig_toast_downloading">Mengunduh…</string>
     <string name="ig_toast_downloading_video">Mengunduh video…</string>
     <string name="ig_toast_downloading_photo">Mengunduh foto…</string>
-    <string name="ig_toast_video_saved">Video disimpan ke folder InstaEclipse</string>
-    <string name="ig_toast_photo_saved">Foto disimpan ke folder InstaEclipse</string>
-    <string name="ig_toast_saved">Disimpan ke folder InstaEclipse</string>
+    <string name="ig_toast_video_saved">Video disimpan ke folder insta Ec</string>
+    <string name="ig_toast_photo_saved">Foto disimpan ke folder insta Ec</string>
+    <string name="ig_toast_saved">Disimpan ke folder insta Ec</string>
     <string name="ig_toast_download_failed">Unduhan gagal: %1$s</string>
     <string name="ig_toast_downloading_reel">Mengunduh reel…</string>
-    <string name="ig_toast_reel_saved">Reel disimpan ke folder InstaEclipse</string>
+    <string name="ig_toast_reel_saved">Reel disimpan ke folder insta Ec</string>
     <string name="ig_toast_reel_failed">Unduhan reel gagal: %1$s</string>
     <string name="ig_toast_reel_url_not_found">URL reel tidak ditemukan</string>
     <string name="ig_toast_post_url_not_found">URL postingan tidak ditemukan</string>
@@ -324,7 +324,7 @@
     <string name="ig_toast_no_media">Tidak ada media ditemukan</string>
     <string name="ig_toast_downloading_story_video">Mengunduh video story…</string>
     <string name="ig_toast_downloading_story_photo">Mengunduh foto story…</string>
-    <string name="ig_toast_story_saved">Story disimpan ke folder InstaEclipse</string>
+    <string name="ig_toast_story_saved">Story disimpan ke folder insta Ec</string>
     <string name="ig_toast_story_url_not_found">URL story tidak ditemukan</string>
     <string name="ig_toast_downloading_profile_pic">Mengunduh foto profil…</string>
     <string name="ig_toast_profile_pic_saved">Foto profil disimpan!</string>
@@ -332,7 +332,7 @@
     <string name="ig_toast_merging_video_audio">Menggabungkan video + audio…</string>
     <string name="ig_toast_downloading_n_items">Mengunduh %1$d item…</string>
     <string name="ig_toast_downloading_all_n_items">Mengunduh semua %1$d item…</string>
-    <string name="ig_toast_all_items_saved">Semua %1$d item disimpan ke folder InstaEclipse</string>
+    <string name="ig_toast_all_items_saved">Semua %1$d item disimpan ke folder insta Ec</string>
     <string name="ig_toast_items_partial_saved">%1$d dari %2$d item disimpan (%3$d gagal)</string>
     <string name="ig_toast_no_reel_url_scroll">URL reel tidak ditemukan — gulir reel terlebih dahulu</string>
 
@@ -356,7 +356,7 @@
     <!-- Toast: Downloader (service) -->
     <string name="ig_toast_no_download_folder">Folder unduhan belum diatur</string>
     <string name="ig_toast_file_saved">Tersimpan: %1$s</string>
-    <string name="ig_toast_features_loaded">InstaEclipse dimuat 🎯</string>
+    <string name="ig_toast_features_loaded">insta Ec dimuat 🎯</string>
 
 
     <!-- Update check dialog -->

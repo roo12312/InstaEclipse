@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- app wide -->
-    <string name="app_name">InstaEclipse</string>
+    <string name="app_name">insta Ec</string>
     <string name="home">Startseite</string>
     <string name="features">Funktionen</string>
     <string name="help">Hilfe</string>
@@ -39,11 +39,11 @@
     <string name="go_to_github">Zu GitHub</string>
     <string name="find_support">Support finden.</string>
     <string name="go_to_telegram">Zu Telegram</string>
-    <string name="instaeclipse_telegram_group" translatable="false">InstaEclipse Telegram Group</string>
+    <string name="instaeclipse_telegram_group" translatable="false">insta Ec Telegram Group</string>
 
 
     <!-- Don't translate! -->
-    <string name="instaeclipse_github" translatable="false">InstaEclipse GitHub</string>
+    <string name="instaeclipse_github" translatable="false">insta Ec GitHub</string>
     <string name="github">GitHub</string>
     <string name="telegram">Telegram</string>
 
@@ -153,7 +153,7 @@
     <string name="ig_dialog_dev_restore_default_config_confirm">Dies überschreibt die aktuelle Entwickler-Konfiguration mit der eingebetteten Standardkonfiguration. Fortfahren?</string>
     <string name="ig_toast_default_config_restored">✅ Standardkonfiguration wiederhergestellt.</string>
     <string name="ig_dialog_dev_remove_build_expired">Ablauf-Popup entfernen</string>
-    <string name="ig_dialog_unable_open_ui">InstaEclipse-Oberfläche kann nicht geöffnet werden.</string>
+    <string name="ig_dialog_unable_open_ui">insta Ec-Oberfläche kann nicht geöffnet werden.</string>
     <string name="ig_dialog_instagram_not_ready">Instagram ist nicht geöffnet oder nicht bereit.</string>
     <string name="ig_dialog_mc_overrides_not_found">mc_overrides.json nicht gefunden.</string>
     <string name="ig_dialog_failed_read_config">Konfiguration konnte nicht gelesen werden: %1$s</string>
@@ -239,7 +239,7 @@
     <string name="ig_dialog_restart_message">⚠️ App-Cache leeren und neu starten?</string>
     <string name="ig_dialog_clear_cache">Hooks-Cache leeren</string>
     <string name="ig_dialog_section_clear_cache">Hooks-Cache leeren</string>
-    <string name="ig_dialog_clear_cache_message">⚠️ Dies zwingt InstaEclipse beim nächsten Start, Instagram erneut zu scannen. Die App wird neu gestartet.</string>
+    <string name="ig_dialog_clear_cache_message">⚠️ Dies zwingt insta Ec beim nächsten Start, Instagram erneut zu scannen. Die App wird neu gestartet.</string>
     <string name="ig_dialog_clear_cache_now">Cache leeren &amp; neu starten</string>
     <string name="ig_dialog_restart_now">Jetzt neu starten</string>
     <string name="ig_dialog_restart_not_found">Die App zum Neustart konnte nicht gefunden werden.</string>
@@ -271,12 +271,12 @@
     <string name="ig_toast_downloading">Wird heruntergeladen…</string>
     <string name="ig_toast_downloading_video">Video wird heruntergeladen…</string>
     <string name="ig_toast_downloading_photo">Foto wird heruntergeladen…</string>
-    <string name="ig_toast_video_saved">Video im InstaEclipse-Ordner gespeichert</string>
-    <string name="ig_toast_photo_saved">Foto im InstaEclipse-Ordner gespeichert</string>
-    <string name="ig_toast_saved">Im InstaEclipse-Ordner gespeichert</string>
+    <string name="ig_toast_video_saved">Video im insta Ec-Ordner gespeichert</string>
+    <string name="ig_toast_photo_saved">Foto im insta Ec-Ordner gespeichert</string>
+    <string name="ig_toast_saved">Im insta Ec-Ordner gespeichert</string>
     <string name="ig_toast_download_failed">Download fehlgeschlagen: %1$s</string>
     <string name="ig_toast_downloading_reel">Reel wird heruntergeladen…</string>
-    <string name="ig_toast_reel_saved">Reel im InstaEclipse-Ordner gespeichert</string>
+    <string name="ig_toast_reel_saved">Reel im insta Ec-Ordner gespeichert</string>
     <string name="ig_toast_reel_failed">Reel-Download fehlgeschlagen: %1$s</string>
     <string name="ig_toast_reel_url_not_found">Reel-URL nicht gefunden</string>
     <string name="ig_toast_post_url_not_found">Beitrags-URL nicht gefunden</string>
@@ -284,7 +284,7 @@
     <string name="ig_toast_no_media">Keine Medien gefunden</string>
     <string name="ig_toast_downloading_story_video">Story-Video wird heruntergeladen…</string>
     <string name="ig_toast_downloading_story_photo">Story-Foto wird heruntergeladen…</string>
-    <string name="ig_toast_story_saved">Story im InstaEclipse-Ordner gespeichert</string>
+    <string name="ig_toast_story_saved">Story im insta Ec-Ordner gespeichert</string>
     <string name="ig_toast_story_url_not_found">Story-URL nicht gefunden</string>
     <string name="ig_toast_downloading_profile_pic">Profilbild wird heruntergeladen…</string>
     <string name="ig_toast_profile_pic_saved">Profilbild gespeichert!</string>
@@ -292,7 +292,7 @@
     <string name="ig_toast_merging_video_audio">Video und Audio werden zusammengeführt…</string>
     <string name="ig_toast_downloading_n_items">%1$d Elemente werden heruntergeladen…</string>
     <string name="ig_toast_downloading_all_n_items">Alle %1$d Elemente werden heruntergeladen…</string>
-    <string name="ig_toast_all_items_saved">Alle %1$d Elemente im InstaEclipse-Ordner gespeichert</string>
+    <string name="ig_toast_all_items_saved">Alle %1$d Elemente im insta Ec-Ordner gespeichert</string>
     <string name="ig_toast_items_partial_saved">%1$d von %2$d Elementen gespeichert (%3$d fehlgeschlagen)</string>
     <string name="ig_toast_no_reel_url_scroll">Keine Reel-URL gefunden — erst durch das Reel scrollen</string>
     <string name="ig_dl_title">Herunterladen</string>
@@ -331,7 +331,7 @@
     <!-- Toast: Downloader (service) -->
     <string name="ig_toast_no_download_folder">Kein Download-Ordner festgelegt</string>
     <string name="ig_toast_file_saved">Gespeichert: %1$s</string>
-    <string name="ig_toast_features_loaded">InstaEclipse geladen 🎯</string>
+    <string name="ig_toast_features_loaded">insta Ec geladen 🎯</string>
 
 
     <!-- Update check dialog -->

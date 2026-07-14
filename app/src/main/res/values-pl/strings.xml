@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- app wide -->
-    <string name="app_name">InstaEclipse</string>
+    <string name="app_name">insta Ec</string>
     <string name="version" translatable="false">v0.6.0</string>
     <string name="home">Główna</string>
     <string name="features">Funkcje</string>
@@ -46,10 +46,10 @@
     <string name="go_to_github">Przejdź do GitHub</string>
     <string name="find_support">Wsparcie i pomoc</string>
     <string name="go_to_telegram">Przejdź do Telegram</string>
-    <string name="instaeclipse_telegram_group" translatable="false">InstaEclipse Telegram Group</string>
+    <string name="instaeclipse_telegram_group" translatable="false">insta Ec Telegram Group</string>
 
     <!-- Don't translate! -->
-    <string name="instaeclipse_github" translatable="false">InstaEclipse GitHub</string>
+    <string name="instaeclipse_github" translatable="false">insta Ec GitHub</string>
     <string name="github">GitHub</string>
     <string name="telegram">Telegram</string>
 
@@ -140,7 +140,7 @@
     <!-- ================================================================ -->
 
     <!-- Common -->
-    <string name="ig_dialog_title" translatable="false">InstaEclipse 🌘</string>
+    <string name="ig_dialog_title" translatable="false">insta Ec 🌘</string>
     <string name="ig_dialog_close">Zamknij</string>
     <string name="ig_dialog_enable_disable_all">Przełącz wszystkie</string>
     <string name="ig_dialog_error">Wystąpił błąd</string>
@@ -165,7 +165,7 @@
     <string name="logging_clear">Wyczyść</string>
     <string name="logging_copy">Kopiuj</string>
     <string name="logging_copied">Skopiowano do schowka</string>
-    <string name="logging_companion">InstaEclipse</string>
+    <string name="logging_companion">insta Ec</string>
     <string name="logging_instagram">Instagram</string>
     <string name="logging_instagram_timeout">Instagram nie odpowiedział na czas. Wyświetlanie tylko logów aplikacji.</string>
     <string name="logging_no_target">Najpierw zainstaluj obsługiwaną aplikację Instagram.</string>
@@ -254,7 +254,7 @@
     <string name="ig_dialog_section_clear_cache">Wyczyść pamięć podręczną hooków</string>
     <string name="ig_dialog_clear_cache_message">⚠️ Wymusi ponowne przeskanowanie Instagrama przy następnym uruchomieniu. Aplikacja uruchomi się ponownie.</string>
     <string name="ig_dialog_clear_cache_now">Wyczyść pamięć podręczną i zrestartuj</string>
-    <string name="ig_dialog_unable_open_ui">Nie udało się otworzyć interfejsu InstaEclipse.</string>
+    <string name="ig_dialog_unable_open_ui">Nie udało się otworzyć interfejsu insta Ec.</string>
     <string name="ig_dialog_instagram_not_ready">Instagram nie jest otwarty lub gotowy.</string>
     <string name="ig_dialog_mc_overrides_not_found">Nie odnaleziono mc_overrides.json</string>
     <string name="ig_dialog_failed_read_config">Nie udało się załadować konfiguracji: %1$s</string>
@@ -400,12 +400,12 @@
     <string name="ig_toast_downloading">Pobieranie...</string>
     <string name="ig_toast_downloading_video">Pobieranie filmu...</string>
     <string name="ig_toast_downloading_photo">Pobieranie zdjęcia...</string>
-    <string name="ig_toast_video_saved">Zapisano film do folderu InstaEclipse</string>
-    <string name="ig_toast_photo_saved">Zapisano zdjęcie do folderu InstaEclipse</string>
-    <string name="ig_toast_saved">Zapisano do folderu InstaEclipse</string>
+    <string name="ig_toast_video_saved">Zapisano film do folderu insta Ec</string>
+    <string name="ig_toast_photo_saved">Zapisano zdjęcie do folderu insta Ec</string>
+    <string name="ig_toast_saved">Zapisano do folderu insta Ec</string>
     <string name="ig_toast_download_failed">Pobieranie nie udało się: %1$s</string>
     <string name="ig_toast_downloading_reel">Pobieranie rolki...</string>
-    <string name="ig_toast_reel_saved">Zapisano rolkę do folderu InstaEclipse</string>
+    <string name="ig_toast_reel_saved">Zapisano rolkę do folderu insta Ec</string>
     <string name="ig_toast_reel_failed">Nie udało się pobrać rolki: %1$s</string>
     <string name="ig_toast_reel_url_not_found">Nie odnaleziono adresu URL rolki</string>
     <string name="ig_toast_post_url_not_found">Nie odnaleziono adresu URL postu</string>
@@ -413,7 +413,7 @@
     <string name="ig_toast_no_media">Nie znaleziono żadnych multimediów</string>
     <string name="ig_toast_downloading_story_video">Pobieranie filmu z relacji...</string>
     <string name="ig_toast_downloading_story_photo">Pobieranie zdjęcia z relacji...</string>
-    <string name="ig_toast_story_saved">Zapisano relację do folderu InstaEclipse</string>
+    <string name="ig_toast_story_saved">Zapisano relację do folderu insta Ec</string>
     <string name="ig_toast_story_url_not_found">Nie odnaleziono adresu URL relacji</string>
     <string name="ig_toast_downloading_profile_pic">Pobieranie zdjęcia profilowego...</string>
     <string name="ig_toast_profile_pic_saved">Zapisano profilowe!</string>
@@ -421,12 +421,12 @@
     <string name="ig_toast_merging_video_audio">Łączenie wideo i audio…</string>
     <string name="ig_toast_downloading_n_items">Pobieranie %1$d rzeczy…</string>
     <string name="ig_toast_downloading_all_n_items">Pobieranie wszystkich %1$d rzeczy…</string>
-    <string name="ig_toast_all_items_saved">Wszystkie %1$d rzeczy zostało zapisane do folderu InstaEclipse</string>
+    <string name="ig_toast_all_items_saved">Wszystkie %1$d rzeczy zostało zapisane do folderu insta Ec</string>
     <string name="ig_toast_items_partial_saved">Zapisano %1$d z %2$d rzeczy (%3$d nie udało się)</string>
     <string name="ig_toast_no_reel_url_scroll">Nie znaleziono adresu URL rolki — najpierw przewiń rolkę</string>
     <string name="ig_toast_no_download_folder">Nie ustawiono folderu pobierania</string>
     <string name="ig_toast_file_saved">Zapisano: %1$s</string>
-    <string name="ig_toast_features_loaded">Załadowano InstaEclipse 🎯</string>
+    <string name="ig_toast_features_loaded">Załadowano insta Ec 🎯</string>
 
     <!-- Downloader carousel UI -->
     <string name="ig_dl_title">Pobierz</string>

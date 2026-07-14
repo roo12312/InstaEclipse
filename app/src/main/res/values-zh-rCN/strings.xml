@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!--  app wide  -->
-    <string name="app_name">InstaEclipse</string>
+    <string name="app_name">insta Ec</string>
     <string name="version" translatable="false">v0.6.0</string>
     <string name="home">首页</string>
     <string name="features">功能</string>
@@ -41,10 +41,10 @@
     <string name="go_to_github">前往 GitHub</string>
     <string name="find_support">查询支持</string>
     <string name="go_to_telegram">前往 Telegram</string>
-    <string name="instaeclipse_telegram_group" translatable="false">InstaEclipse Telegram Group</string>
+    <string name="instaeclipse_telegram_group" translatable="false">insta Ec Telegram Group</string>
 
     <!--  Don't translate!  -->
-    <string name="instaeclipse_github" translatable="false">InstaEclipse GitHub</string>
+    <string name="instaeclipse_github" translatable="false">insta Ec GitHub</string>
     <string name="github">GitHub</string>
     <string name="telegram">Telegram</string>
 
@@ -133,7 +133,7 @@
     <!-- ================================================================ -->
 
     <!-- Common -->
-    <string name="ig_dialog_title" translatable="false">InstaEclipse 🌘</string>
+    <string name="ig_dialog_title" translatable="false">insta Ec 🌘</string>
     <string name="ig_dialog_close">关闭</string>
     <string name="ig_dialog_enable_disable_all">启用/禁用所有</string>
     <string name="ig_dialog_error">错误</string>
@@ -175,7 +175,7 @@
     <string name="ig_dialog_dev_restore_default_config_confirm">这将用内置默认配置覆盖当前的开发者配置。是否继续？</string>
     <string name="ig_toast_default_config_restored">✅ 默认配置已恢复。</string>
     <string name="ig_dialog_dev_remove_build_expired">移除版本过期弹窗</string>
-    <string name="ig_dialog_unable_open_ui">无法打开 InstaEclipse 界面。</string>
+    <string name="ig_dialog_unable_open_ui">无法打开 insta Ec 界面。</string>
     <string name="ig_dialog_instagram_not_ready">Instagram 未打开或未就绪。</string>
     <string name="ig_dialog_mc_overrides_not_found">未找到 mc_overrides.json。</string>
     <string name="ig_dialog_failed_read_config">读取配置失败：%1$s</string>
@@ -280,7 +280,7 @@
     <string name="ig_dialog_restart_message">⚠️ 清除应用缓存并重启？</string>
     <string name="ig_dialog_clear_cache">清除 Hooks 缓存</string>
     <string name="ig_dialog_section_clear_cache">清除 Hooks 缓存</string>
-    <string name="ig_dialog_clear_cache_message">⚠️ 这将强制 InstaEclipse 在下次启动时重新扫描 Instagram。应用将重新启动。</string>
+    <string name="ig_dialog_clear_cache_message">⚠️ 这将强制 insta Ec 在下次启动时重新扫描 Instagram。应用将重新启动。</string>
     <string name="ig_dialog_clear_cache_now">清除缓存并重启</string>
     <string name="ig_dialog_restart_now">立即重启</string>
     <string name="ig_dialog_restart_not_found">找不到要重启的应用。</string>
@@ -312,12 +312,12 @@
     <string name="ig_toast_downloading">正在下载…</string>
     <string name="ig_toast_downloading_video">正在下载视频…</string>
     <string name="ig_toast_downloading_photo">正在下载图片…</string>
-    <string name="ig_toast_video_saved">视频已保存到 InstaEclipse 文件夹</string>
-    <string name="ig_toast_photo_saved">图片已保存到 InstaEclipse 文件夹</string>
-    <string name="ig_toast_saved">已保存到 InstaEclipse 文件夹</string>
+    <string name="ig_toast_video_saved">视频已保存到 insta Ec 文件夹</string>
+    <string name="ig_toast_photo_saved">图片已保存到 insta Ec 文件夹</string>
+    <string name="ig_toast_saved">已保存到 insta Ec 文件夹</string>
     <string name="ig_toast_download_failed">下载失败：%1$s</string>
     <string name="ig_toast_downloading_reel">正在下载连续短片…</string>
-    <string name="ig_toast_reel_saved">连续短片已保存到 InstaEclipse 文件夹</string>
+    <string name="ig_toast_reel_saved">连续短片已保存到 insta Ec 文件夹</string>
     <string name="ig_toast_reel_failed">连续短片下载失败：%1$s</string>
     <string name="ig_toast_reel_url_not_found">未找到连续短片 URL</string>
     <string name="ig_toast_post_url_not_found">未找到帖子 URL</string>
@@ -325,7 +325,7 @@
     <string name="ig_toast_no_media">未找到媒体</string>
     <string name="ig_toast_downloading_story_video">正在下载限时动态视频…</string>
     <string name="ig_toast_downloading_story_photo">正在下载限时动态图片…</string>
-    <string name="ig_toast_story_saved">限时动态已保存到 InstaEclipse 文件夹</string>
+    <string name="ig_toast_story_saved">限时动态已保存到 insta Ec 文件夹</string>
     <string name="ig_toast_story_url_not_found">未找到限时动态 URL</string>
     <string name="ig_toast_downloading_profile_pic">正在下载个人资料图片…</string>
     <string name="ig_toast_profile_pic_saved">个人资料图片已保存！</string>
@@ -333,7 +333,7 @@
     <string name="ig_toast_merging_video_audio">正在合并视频 + 音频…</string>
     <string name="ig_toast_downloading_n_items">正在下载 %1$d 个项目…</string>
     <string name="ig_toast_downloading_all_n_items">正在下载全部 %1$d 个项目…</string>
-    <string name="ig_toast_all_items_saved">全部 %1$d 个项目已保存到 InstaEclipse 文件夹</string>
+    <string name="ig_toast_all_items_saved">全部 %1$d 个项目已保存到 insta Ec 文件夹</string>
     <string name="ig_toast_items_partial_saved">%1$d / %2$d 个项目已保存（%3$d 个失败）</string>
     <string name="ig_toast_no_reel_url_scroll">未找到连续短片 URL — 请先滚动查看连续短片</string>
 
@@ -357,7 +357,7 @@
     <!-- Toast: Downloader (service) -->
     <string name="ig_toast_no_download_folder">未设置下载文件夹</string>
     <string name="ig_toast_file_saved">已保存：%1$s</string>
-    <string name="ig_toast_features_loaded">InstaEclipse 已加载 🎯</string>
+    <string name="ig_toast_features_loaded">insta Ec 已加载 🎯</string>
 
 
     <!-- Update check dialog -->

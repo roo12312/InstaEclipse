@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- app wide -->
-    <string name="app_name">InstaEclipse</string>
+    <string name="app_name">insta Ec</string>
     <string name="version" translatable="false">v0.6.0</string>
     <string name="home">דף הבית</string>
     <string name="features">תכונות</string>
@@ -40,10 +40,10 @@
     <string name="go_to_github">פתיחת GitHub</string>
     <string name="find_support">מציאת תמיכה.</string>
     <string name="go_to_telegram">פתיחת Telegram</string>
-    <string name="instaeclipse_telegram_group" translatable="false">InstaEclipse Telegram Group</string>
+    <string name="instaeclipse_telegram_group" translatable="false">insta Ec Telegram Group</string>
 
     <!-- Don't translate! -->
-    <string name="instaeclipse_github" translatable="false">InstaEclipse GitHub</string>
+    <string name="instaeclipse_github" translatable="false">insta Ec GitHub</string>
     <string name="github">GitHub</string>
     <string name="telegram">Telegram</string>
 
@@ -132,7 +132,7 @@
     <!-- ================================================================ -->
 
     <!-- Common -->
-    <string name="ig_dialog_title" translatable="false">InstaEclipse 🌘</string>
+    <string name="ig_dialog_title" translatable="false">insta Ec 🌘</string>
     <string name="ig_dialog_close">סגור</string>
     <string name="ig_dialog_enable_disable_all">הפעלה/השבתת הכל</string>
     <string name="ig_dialog_error">שגיאה</string>
@@ -174,7 +174,7 @@
     <string name="ig_dialog_dev_restore_default_config_confirm">פעולה זו תחליף את הגדרות המפתחים הנוכחיות בהגדרות ברירת המחדל המובנות. להמשיך?</string>
     <string name="ig_toast_default_config_restored">✅ הגדרות ברירת המחדל שוחזרו.</string>
     <string name="ig_dialog_dev_remove_build_expired">הסר חלונית Build Expired</string>
-    <string name="ig_dialog_unable_open_ui">לא ניתן לפתוח את ממשק InstaEclipse.</string>
+    <string name="ig_dialog_unable_open_ui">לא ניתן לפתוח את ממשק insta Ec.</string>
     <string name="ig_dialog_instagram_not_ready">אינסטגרם אינו פתוח או מוכן.</string>
     <string name="ig_dialog_mc_overrides_not_found">mc_overrides.json לא נמצא.</string>
     <string name="ig_dialog_failed_read_config">נכשל בקריאת הגדרות: %1$s</string>
@@ -279,7 +279,7 @@
     <string name="ig_dialog_restart_message">⚠️ נקה cache ואתחל?</string>
     <string name="ig_dialog_clear_cache">נקה מטמון Hooks</string>
     <string name="ig_dialog_section_clear_cache">נקה מטמון Hooks</string>
-    <string name="ig_dialog_clear_cache_message">⚠️ פעולה זו תאלץ את InstaEclipse לסרוק מחדש את אינסטגרם בהפעלה הבאה. האפליקציה תופעל מחדש.</string>
+    <string name="ig_dialog_clear_cache_message">⚠️ פעולה זו תאלץ את insta Ec לסרוק מחדש את אינסטגרם בהפעלה הבאה. האפליקציה תופעל מחדש.</string>
     <string name="ig_dialog_clear_cache_now">נקה מטמון &amp; הפעל מחדש</string>
     <string name="ig_dialog_restart_now">אתחל עכשיו</string>
     <string name="ig_dialog_restart_not_found">לא נמצאה האפליקציה לאתחול.</string>
@@ -311,12 +311,12 @@
     <string name="ig_toast_downloading">מוריד…</string>
     <string name="ig_toast_downloading_video">מוריד סרטון…</string>
     <string name="ig_toast_downloading_photo">מוריד תמונה…</string>
-    <string name="ig_toast_video_saved">הסרטון נשמר לתיקיית InstaEclipse</string>
-    <string name="ig_toast_photo_saved">התמונה נשמרה לתיקיית InstaEclipse</string>
-    <string name="ig_toast_saved">נשמר לתיקיית InstaEclipse</string>
+    <string name="ig_toast_video_saved">הסרטון נשמר לתיקיית insta Ec</string>
+    <string name="ig_toast_photo_saved">התמונה נשמרה לתיקיית insta Ec</string>
+    <string name="ig_toast_saved">נשמר לתיקיית insta Ec</string>
     <string name="ig_toast_download_failed">ההורדה נכשלה: %1$s</string>
     <string name="ig_toast_downloading_reel">מוריד ריל…</string>
-    <string name="ig_toast_reel_saved">הריל נשמר לתיקיית InstaEclipse</string>
+    <string name="ig_toast_reel_saved">הריל נשמר לתיקיית insta Ec</string>
     <string name="ig_toast_reel_failed">הורדת ריל נכשלה: %1$s</string>
     <string name="ig_toast_reel_url_not_found">כתובת URL של ריל לא נמצאה</string>
     <string name="ig_toast_post_url_not_found">כתובת URL של פוסט לא נמצאה</string>
@@ -324,7 +324,7 @@
     <string name="ig_toast_no_media">לא נמצא מדיה</string>
     <string name="ig_toast_downloading_story_video">מוריד סרטון סטורי…</string>
     <string name="ig_toast_downloading_story_photo">מוריד תמונת סטורי…</string>
-    <string name="ig_toast_story_saved">הסטורי נשמר לתיקיית InstaEclipse</string>
+    <string name="ig_toast_story_saved">הסטורי נשמר לתיקיית insta Ec</string>
     <string name="ig_toast_story_url_not_found">כתובת URL של סטורי לא נמצאה</string>
     <string name="ig_toast_downloading_profile_pic">מוריד תמונת פרופיל…</string>
     <string name="ig_toast_profile_pic_saved">תמונת הפרופיל נשמרה!</string>
@@ -332,7 +332,7 @@
     <string name="ig_toast_merging_video_audio">ממזג וידאו + אודיו…</string>
     <string name="ig_toast_downloading_n_items">מוריד %1$d פריטים…</string>
     <string name="ig_toast_downloading_all_n_items">מוריד את כל %1$d הפריטים…</string>
-    <string name="ig_toast_all_items_saved">כל %1$d הפריטים נשמרו לתיקיית InstaEclipse</string>
+    <string name="ig_toast_all_items_saved">כל %1$d הפריטים נשמרו לתיקיית insta Ec</string>
     <string name="ig_toast_items_partial_saved">%1$d מתוך %2$d פריטים נשמרו (%3$d נכשלו)</string>
     <string name="ig_toast_no_reel_url_scroll">כתובת URL של ריל לא נמצאה — גלול את הריל תחילה</string>
 
@@ -356,7 +356,7 @@
     <!-- Toast: Downloader (service) -->
     <string name="ig_toast_no_download_folder">לא הוגדרה תיקיית הורדות</string>
     <string name="ig_toast_file_saved">נשמר: %1$s</string>
-    <string name="ig_toast_features_loaded">InstaEclipse נטען 🎯</string>
+    <string name="ig_toast_features_loaded">insta Ec נטען 🎯</string>
 
 
     <!-- Update check dialog -->

@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="assets/logo.png" alt="InstaEclipse" width="120" />
-  <h1>InstaEclipse</h1>
+  <img src="assets/logo.png" alt="insta Ec" width="120" />
+  <h1>insta Ec</h1>
   <p>A powerful LSPosed module that enhances your Instagram experience.</p>
 
   <p>
-    <a href="https://github.com/ReSo7200/InstaEclipse/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/ReSo7200/InstaEclipse?style=for-the-badge&logo=github&color=1a1a2e&labelColor=0d0d0d"/></a>
-    <a href="https://github.com/ReSo7200/InstaEclipse/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/ReSo7200/InstaEclipse?style=for-the-badge&logo=github&color=1a1a2e&labelColor=0d0d0d"/></a>
-    <a href="https://github.com/ReSo7200/InstaEclipse/releases/latest"><img alt="Downloads" src="https://img.shields.io/github/downloads/ReSo7200/InstaEclipse/total?style=for-the-badge&logo=github&color=1a1a2e&labelColor=0d0d0d"/></a>
-    <a href="https://t.me/InstaEclipse"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&labelColor=0d0d0d"/></a>
-    <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/ReSo7200/InstaEclipse?style=for-the-badge&color=1a1a2e&labelColor=0d0d0d"/></a>
+    <a href="https://github.com/ReSo7200/insta Ec/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/ReSo7200/insta Ec?style=for-the-badge&logo=github&color=1a1a2e&labelColor=0d0d0d"/></a>
+    <a href="https://github.com/ReSo7200/insta Ec/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/ReSo7200/insta Ec?style=for-the-badge&logo=github&color=1a1a2e&labelColor=0d0d0d"/></a>
+    <a href="https://github.com/ReSo7200/insta Ec/releases/latest"><img alt="Downloads" src="https://img.shields.io/github/downloads/ReSo7200/insta Ec/total?style=for-the-badge&logo=github&color=1a1a2e&labelColor=0d0d0d"/></a>
+    <a href="https://t.me/insta Ec"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&labelColor=0d0d0d"/></a>
+    <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/ReSo7200/insta Ec?style=for-the-badge&color=1a1a2e&labelColor=0d0d0d"/></a>
   </p>
 
   <p>
@@ -23,12 +23,12 @@
 
 ## Overview
 
-**InstaEclipse** is an [LSPosed](https://github.com/JingMatrix/LSPosed) module built to unlock a richer Instagram experience — without root required (via [LSPatch](https://github.com/JingMatrix/LSPatch)).
+**insta Ec** is an [LSPosed](https://github.com/JingMatrix/LSPosed) module built to unlock a richer Instagram experience — without root required (via [LSPatch](https://github.com/JingMatrix/LSPatch)).
 
 It uses [DexKit](https://github.com/LuckyPray/DexKit) for dynamic class/method detection, keeping it compatible with new Instagram releases automatically.
 
 > [!IMPORTANT]
-> **InstaEclipse is being succeeded by the [Purrfect](https://t.me/purrfect_tg) project.** Development here will stay active until Purrfect reaches a stable release — follow the Telegram channel for progress updates.
+> **insta Ec is being succeeded by the [Purrfect](https://t.me/purrfect_tg) project.** Development here will stay active until Purrfect reaches a stable release — follow the Telegram channel for progress updates.
 
 ---
 
@@ -119,7 +119,7 @@ It uses [DexKit](https://github.com/LuckyPray/DexKit) for dynamic class/method d
 | Import/Export Config | Import or export your config as JSON |
 | Restore to Default Config | Reset the Developer Config back to the bundled defaults |
 | Remove Build Expired Popup | Dismiss the "Build Expired" popup on older builds |
-| Clear Hooks Cache | Force InstaEclipse to re-scan Instagram on next launch |
+| Clear Hooks Cache | Force insta Ec to re-scan Instagram on next launch |
 
 > **Note:** Use Beta or Alpha Instagram builds for best results. Stable builds apply obfuscation that makes some labels appear as numbers.
 
@@ -185,7 +185,7 @@ It uses [DexKit](https://github.com/LuckyPray/DexKit) for dynamic class/method d
 </details>
 
 <details>
-<summary><b>📋 Log Viewer</b> — See exactly what InstaEclipse is doing</summary>
+<summary><b>📋 Log Viewer</b> — See exactly what insta Ec is doing</summary>
 
 <br/>
 
@@ -202,7 +202,7 @@ It uses [DexKit](https://github.com/LuckyPray/DexKit) for dynamic class/method d
 
 | Feature | Description |
 |---|---|
-| Export Settings | Save all your InstaEclipse settings to a file |
+| Export Settings | Save all your insta Ec settings to a file |
 | Restore Settings | Restore settings from a backup — useful when switching devices or reinstalling |
 
 </details>
@@ -211,7 +211,7 @@ It uses [DexKit](https://github.com/LuckyPray/DexKit) for dynamic class/method d
 
 ## 📱 Instagram Compatibility
 
-While InstaEclipse is built to stay compatible with new Instagram releases automatically, some features may be unstable on specific versions. If something stops working after an Instagram update, check the [Telegram channel](https://t.me/InstaEclipse) for status updates before opening an issue.
+While insta Ec is built to stay compatible with new Instagram releases automatically, some features may be unstable on specific versions. If something stops working after an Instagram update, check the [Telegram channel](https://t.me/insta Ec) for status updates before opening an issue.
 
 | |                                                                                                                 |
 |---|-----------------------------------------------------------------------------------------------------------------|
@@ -224,7 +224,7 @@ While InstaEclipse is built to stay compatible with new Instagram releases autom
 
 > ⚠️ **Use Instagram from [APKMirror](https://www.apkmirror.com/apk/instagram/instagram-instagram/)** — the Google Play version may not be fully supported.
 
-Download the latest InstaEclipse APK from [**Releases →**](https://github.com/ReSo7200/InstaEclipse/releases/latest)
+Download the latest insta Ec APK from [**Releases →**](https://github.com/ReSo7200/insta Ec/releases/latest)
 
 ---
 
@@ -232,20 +232,20 @@ Download the latest InstaEclipse APK from [**Releases →**](https://github.com/
 
 > Requires [JingMatrix's LSPosed](https://github.com/JingMatrix/LSPosed/releases/latest)
 
-**1. Install InstaEclipse**
-Download and install the InstaEclipse APK.
+**1. Install insta Ec**
+Download and install the insta Ec APK.
 
 **2. Enable the module**
-Open **LSPosed Manager** → **Modules** → find **InstaEclipse** → enable it and scope it to **Instagram**.
+Open **LSPosed Manager** → **Modules** → find **insta Ec** → enable it and scope it to **Instagram**.
 
 **3. Restart Instagram**
 Force stop Instagram, then reopen it.
 
-**4. Open InstaEclipse**
-Inside Instagram, **long-press the search icon** to open the InstaEclipse menu.
+**4. Open insta Ec**
+Inside Instagram, **long-press the search icon** to open the insta Ec menu.
 
  > [!CAUTION]
-> **Hide My Applist users:** Do **not** add InstaEclipse to the hidden apps list. InstaEclipse must remain visible to Instagram — hiding it will cause crashes or features to stop working entirely.
+> **Hide My Applist users:** Do **not** add insta Ec to the hidden apps list. insta Ec must remain visible to Instagram — hiding it will cause crashes or features to stop working entirely.
 
 ---
 
@@ -253,8 +253,8 @@ Inside Instagram, **long-press the search icon** to open the InstaEclipse menu.
 
 > Requires [JingMatrix's LSPatch](https://github.com/JingMatrix/LSPatch/releases/latest)
 
-**1. Install InstaEclipse**
-Download and install the InstaEclipse APK.
+**1. Install insta Ec**
+Download and install the insta Ec APK.
 
 **2. Install LSPatch**
 Download and install LSPatch (JingMatrix fork).
@@ -269,10 +269,10 @@ Download and install LSPatch (JingMatrix fork).
 Install the output APK and log in to Instagram.
 
 **5. Enable the module**
-Reopen LSPatch → **Manage** → find Instagram → **Modules** → enable **InstaEclipse**.
+Reopen LSPatch → **Manage** → find Instagram → **Modules** → enable **insta Ec**.
 
-**6. Open InstaEclipse**
-Inside Instagram, **long-press the search icon** to open the InstaEclipse menu.
+**6. Open insta Ec**
+Inside Instagram, **long-press the search icon** to open the insta Ec menu.
 
 ---
 
@@ -291,7 +291,7 @@ Force stop Instagram and clear its cache after enabling.
 Download Instagram from [APKMirror](https://www.apkmirror.com/apk/instagram/instagram-instagram/) instead.
 
 **Some features not working even after enabling them?**
-Certain Instagram internal configurations can silently break specific features. A ready-to-use config that fixes known issues is available on Telegram — [**grab it here**](https://t.me/InstaEclipse/52).
+Certain Instagram internal configurations can silently break specific features. A ready-to-use config that fixes known issues is available on Telegram — [**grab it here**](https://t.me/insta Ec/52).
 
 **Still stuck?**
 Join the [Telegram group](https://t.me/instaEclipse_discussion) and ask — someone will help.
@@ -300,11 +300,11 @@ Join the [Telegram group](https://t.me/instaEclipse_discussion) and ask — some
 
 ## 🗺️ Using the Features
 
-Once InstaEclipse is installed and active, **long-press the search icon** inside Instagram to open the InstaEclipse menu. From there you can toggle any feature on or off without restarting.
+Once insta Ec is installed and active, **long-press the search icon** inside Instagram to open the insta Ec menu. From there you can toggle any feature on or off without restarting.
 
 For guides on specific features, tips, and video walkthroughs:
 
-- 📢 **Announcements & updates** → [Telegram Channel](https://t.me/InstaEclipse)
+- 📢 **Announcements & updates** → [Telegram Channel](https://t.me/insta Ec)
 - 💬 **Questions & community help** → [Telegram Discussion Group](https://t.me/instaEclipse_discussion)
 
 ---
@@ -324,8 +324,8 @@ For guides on specific features, tips, and video walkthroughs:
 
 ### All Contributors
 
-<a href="https://github.com/ReSo7200/InstaEclipse/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ReSo7200/InstaEclipse" alt="Contributors"/>
+<a href="https://github.com/ReSo7200/insta Ec/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ReSo7200/insta Ec" alt="Contributors"/>
 </a>
 
 <sub>Made with <a href="https://contrib.rocks">contrib.rocks</a></sub>
@@ -333,7 +333,7 @@ For guides on specific features, tips, and video walkthroughs:
 <br/>
 
 **Translation Contributors**
-A big thank you to everyone who helped translate InstaEclipse into multiple languages — you make this accessible to users around the world.
+A big thank you to everyone who helped translate insta Ec into multiple languages — you make this accessible to users around the world.
 
 </div>
 
@@ -350,13 +350,13 @@ A big thank you to everyone who helped translate InstaEclipse into multiple lang
 
 Contributions are welcome — whether it's a bug report, feature request, translation, or pull request.
 
-- **Bug?** → [Open a bug report](https://github.com/ReSo7200/InstaEclipse/issues/new/choose)
-- **Idea?** → [Submit a feature request](https://github.com/ReSo7200/InstaEclipse/issues/new/choose)
+- **Bug?** → [Open a bug report](https://github.com/ReSo7200/insta Ec/issues/new/choose)
+- **Idea?** → [Submit a feature request](https://github.com/ReSo7200/insta Ec/issues/new/choose)
 - **Code?** → Fork the repo and open a PR
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by the InstaEclipse team</sub><br/>
-  <sub>InstaEclipse is not affiliated with Meta or Instagram. See <a href="DISCLAIMER.md">Disclaimer</a>.</sub>
+  <sub>Made with ❤️ by the insta Ec team</sub><br/>
+  <sub>insta Ec is not affiliated with Meta or Instagram. See <a href="DISCLAIMER.md">Disclaimer</a>.</sub>
 </div>
